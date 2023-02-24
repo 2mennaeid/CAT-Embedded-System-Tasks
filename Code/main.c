@@ -2,7 +2,7 @@
  * GccApplication6.c
  *
  * Created: 11/10/2022 06:28:22 م
- * Author : Pc
+ * Author : Menna Eid
  */ 
 
 #include "MCAL/DIO/Registers1.h"
